@@ -3358,9 +3358,9 @@ unpipe@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
 
-urijs@1.18.2:
-  version "1.18.2"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.18.2.tgz#c2791fa9fb52f4603caf36032d9666432a1dda33"
+urijs@1.19.6:
+  version "1.19.6"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.6.tgz#51f8cb17ca16faefb20b9a31ac60f84aa2b7c870"
 
 user-home@^1.1.1:
   version "1.1.1"

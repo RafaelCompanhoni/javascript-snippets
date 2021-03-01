@@ -23,7 +23,7 @@
     "express": "4.13.3",
     "isomorphic-fetch": "2.2.1",
     "morgan": "1.7.0",
-    "urijs": "1.18.2"
+    "urijs": "1.19.6"
   },
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
